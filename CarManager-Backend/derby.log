@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon May 02 15:52:55 CEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0154-71be-441c-000003495550 
+on database directory memory:/home/marek/Downloads/CarManagerProject/CarManager-Backend/carmgr-test with class loader sun.misc.Launcher$AppClassLoader@14dad5dc 
+Loaded from file:/home/marek/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=/home/marek/Downloads/CarManagerProject/CarManager-Backend
+os.name=Linux
+os.arch=amd64
+os.version=3.19.0-51-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
